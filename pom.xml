@@ -51,10 +51,10 @@
         </plugins>
     </build>
     <distributionManagement>
-            <repository>
-                <id>Deployment</id>
-                <name>Internal Snapshot</name>
+            <snapshotRepositor>
+                <id>123</id>
+                 <name>Internal Snapshot</name>
                   <url>http://34.93.72.7:8081/nexus/content/repositories/123</url>
-            </repository> 
+            </snapshotRepositor> 
     </distributionManagement>   
 </project>
