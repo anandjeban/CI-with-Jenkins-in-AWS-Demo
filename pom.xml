@@ -55,7 +55,7 @@
                 <id>releases</id>
                  <name>Releases</name>
                   <url>http://35.223.235.190//nexus/content/repositories/releases</url>
-            </repository>
+            </repository>      
                                 
             <snapshotRepository>
                 <id>snapshot</id>
